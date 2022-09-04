@@ -1,0 +1,20 @@
+.col-md-4.text-center.mb-5.text-muted.text-light {
+    display: flex;
+    justify-content: center;
+}
+.card-movie {
+    width: 18rem;
+    height: auto;
+    background:rgb(0,15,18);
+    border:none;
+    box-shadow: 0 0 8px white;
+    justify-content: center;
+    
+}
+.card-movie:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+}
+.btn-del {
+    margin: 2%;
+}
